@@ -4,23 +4,22 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-
+# relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            100 Days of Swift RU
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://www.volchonok.media/
-baseurl:          /
+url:              https://volchonokboy.github.io/
+baseurl:          100-days-of-swift-ru/
 
 author:
-  name:           'Mark Otto'
+  name:           'Eduard Khabisov'
   url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/volchonokboy/100-days-of-swift-ru
