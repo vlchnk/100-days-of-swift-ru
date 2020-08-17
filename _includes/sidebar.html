@@ -18,8 +18,8 @@
       {% endcomment %}
 
       {% assign pages_list = site.data.navigation %}
-      {% for node in pages_list %}
-        <a class="sidebar-nav-item{% if page.url == node.link %} active{% endif %}" href="{{ node.link }}">{{ node.title }}</a>
+      {% for node in site.data.navigation %}
+        <a class="sidebar-nav-item{% if page.url == node.link %} active{% endif %}" href="{{ node.link }}">{{ node.name }}</a>
       {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
