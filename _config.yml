@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        /:title:output_ext
+permalink:        /:title/
 # relative_permalinks: true
 
 # Setup
