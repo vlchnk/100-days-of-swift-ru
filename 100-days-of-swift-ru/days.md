@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Days
-permalink: /100-days-of-swift-ru/days/
+permalink: /days/
 ---
 
 <p class="message">
