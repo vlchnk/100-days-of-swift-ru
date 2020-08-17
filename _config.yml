@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            100 Дней с Swift
-# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://volchonokboy.github.io/100-days-of-swift-ru/
 baseurl:          /
 
