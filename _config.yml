@@ -9,8 +9,8 @@ permalink:        /:title:output_ext
 # Setup
 title:            100 Дней с Swift
 description:      'Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://volchonokboy.github.io/
-baseurl:          /
+url:              https://volchonokboy.github.io/100-days-of-swift-ru/
+baseurl:          https://volchonokboy.github.io/100-days-of-swift-ru/
 
 author:
   name:           'Eduard Khabisov'
