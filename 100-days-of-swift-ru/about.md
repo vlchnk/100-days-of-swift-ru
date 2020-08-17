@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /100-days-of-swift-ru/about/
+permalink: /about/
 ---
 
 <p class="message">
