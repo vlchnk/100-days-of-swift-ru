@@ -3,14 +3,14 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 # relative_permalinks: true
 
 # Setup
 title:            100 Дней с Swift
 description:      'Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-# url:              https://volchonokboy.github.io/100-days-of-swift-ru/
-baseurl:          100-days-of-swift-ru/
+url:              https://volchonokboy.github.io/100-days-of-swift-ru/
+baseurl:          /
 
 author:
   name:           'Eduard Khabisov'
