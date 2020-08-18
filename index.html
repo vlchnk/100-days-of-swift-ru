@@ -5,11 +5,11 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <p class="post-title">
+  <h2 class="post-title">
     <a href="{{ post.url | prepend:site.baseurl }}">
       {{ post.title }}
     </a>
-  </p>
+  </h2>
 
   <span class="post-date">{{ post.descr }}</span>
 
