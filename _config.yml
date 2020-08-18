@@ -10,7 +10,7 @@ permalink:        /:title/
 title:            100 Дней с Swift
 description:      'Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://volchonokboy.github.io/
-baseurl:          /100-days-of-swift-ru
+newbaseurl:       /100-days-of-swift-ru
 
 author:
   name:           'Eduard Khabisov'
