@@ -16,7 +16,7 @@ author:
   name:           'Eduard Khabisov'
   url:            https://twitter.com/mdo
 
-paginate:         1
+paginate:         100
 
 # Custom vars
 version:          0.0.1
