@@ -5,13 +5,22 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <h2 class="post-title">
-    <a href="{{ post.url | prepend:site.baseurl }}">
-      {{ post.title }}
-    </a>
-  </h2>
+    {% if post.description %}
 
-  <span class="post-date">{{ post.descr }}</span>
+      <h2 class="post-title">
+        {{ post.title }}
+      </h2>
 
+      {{ content }}
+
+    {% else %}
+      <h2 class="post-title">
+        <a href="{{ post.url | prepend:site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <span class="post-date">{{ post.descr }}</span>
+    {% endif %}
   {% endfor %}
 </div>
