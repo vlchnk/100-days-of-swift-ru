@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Days
-permalink: /days/
 ---
 
 <p class="message">
