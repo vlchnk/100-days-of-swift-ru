@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-permalink: /example/
+descr: variables, simple data types, and string interpolation
 ---
 
 
