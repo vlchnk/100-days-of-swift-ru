@@ -11,14 +11,14 @@ title: Home
         {{ post.title }}
       </h2>
 
-      {{ content }}
+      {{ post.content }}
 
     {% else %}
-      <h2 class="post-title">
+      <h3 class="post-title">
         <a href="{{ post.url | prepend:site.baseurl }}">
            - {{ post.title }}
         </a>
-      </h2>
+      </h3>
 
       <span class="post-date">{{ post.descr }}</span>
     {% endif %}
