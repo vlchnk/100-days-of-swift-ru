@@ -19,7 +19,7 @@ author:
 paginate:         100
 
 # Custom vars
-version:          0.0.1
+version:          0.1
 
 github:
   repo:           https://github.com/volchonokboy/100-days-of-swift-ru
